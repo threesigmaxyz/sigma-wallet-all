@@ -7,3 +7,6 @@
 [submodule "sigma-wallet-backend"]
 	path = sigma-wallet-backend
 	url = https://github.com/threesigmaxyz/sigma-wallet-backend.git
+[submodule "sigma-wallet-zksync"]
+	path = sigma-wallet-zksync
+	url = https://github.com/threesigmaxyz/sigma-wallet-zksync.git
