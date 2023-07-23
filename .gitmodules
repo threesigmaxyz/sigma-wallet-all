@@ -1,0 +1,9 @@
+[submodule "sigma-wallet"]
+	path = sigma-wallet
+	url = https://github.com/threesigmaxyz/sigma-wallet.git
+[submodule "sigma-wallet-frontend"]
+	path = sigma-wallet-frontend
+	url = https://github.com/threesigmaxyz/sigma-wallet-frontend.git
+[submodule "sigma-wallet-backend"]
+	path = sigma-wallet-backend
+	url = https://github.com/threesigmaxyz/sigma-wallet-backend.git
